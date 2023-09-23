@@ -1,0 +1,12 @@
+.box{
+     margin: 10px;
+     padding: 10px;
+     border: 2px solid aqua;
+     border-radius: 10px;
+}
+
+.visited{
+    background-color: burlywood;
+    color: black;
+    font-weight: bold;
+}
